@@ -1,0 +1,30 @@
+http://downloads.yeastgenome.org/sequence/S288C_reference/genome_releases/
+
+This directory contains compressed data files relevant to the current and 
+archived versions of the S. cerevisiae strain S288C reference genome sequence 
+and annotation. 
+
+The current genome version is R64-2-1, released 18Nov2014.
+
+All versions contain a single FASTA file of chromosome sequences and
+many versions since 2003 contain ORF coding, translated proteins,
+intergenic regions, RNA coding, and other features sequences. Most
+versions since 2004 contain both a GAF and a GFF3 file.
+
+File names include release number (ex. R41-1-1) and release date (ex. 20040709).
+
+Publication used to cite the new S. cerevisiae reference sequence:
+
+Engel SR, Dietrich FS, Fisk DG, Binkley G, Balakrishnan R, Costanzo MC, Dwight SS, Hitz BC, 
+Karra K, Nash RS, Weng S, Wong ED, Lloyd P, Skrzypek MS, Miyasato SR, Simison M, Cherry JM. 
+The Reference Genome Sequence of Saccharomyces cerevisiae: Then and Now. 
+G3 (Bethesda). 2013 Dec 27. pii: g3.113.008995v1. doi: 10.1534/g3.113.008995. 
+PMID:24374639
+
+**NOTE for users of UCSC Genome Browser at http://genome.ucsc.edu/**
+
+UCSC sacCer1 = S288C_reference_genome_R27-1-1_20031001.tgz
+
+UCSC sacCer2 = S288C_reference_genome_R61-1-1_20080605.tgz
+
+UCSC sacCer3 = S288C_reference_genome_R64-1-1_20110203.tgz
